@@ -1,3 +1,12 @@
+
+# Step - 1  :
+git clone https://github.com/alok-dotcom/day-3-project.git
+# Step -2 :
+npm install
+# Step -3 
+npm run dev
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
